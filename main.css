@@ -3,15 +3,17 @@ body{
     background: #DDD;  
     font-family: 1em 'PT-Sans', Tahoma, Arial;
     text-transform: uppercase;
-    margin: auto;
+    margin-left: 25%;
+    min-width: 500px;
+    max-width: 500px;
 }
 /*restart btn*/
 .restart{
 	text-align: center;
 	position: absolute;
 	display: block;
-    padding: 25px;
-    font-size: 1.3em;
+   padding: 25px;
+  font-size: 1.3em;
 	color: #fff;
 	width: 90px;
 	height: 90px;
